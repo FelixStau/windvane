@@ -119,7 +119,7 @@ I have completed many tasks but still not everything is perfect so far.
     - [x] User manual
     - [ ] Data sheet
     - [ ] Flash instructions
-- [ ] Application tests
+- [x] Application tests
     - [x] Temperature 20...40°C
     - [x] LoRa range test (SF7...SF12)
     - [x] WiFi stability test
