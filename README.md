@@ -115,7 +115,7 @@ I have completed many tasks but still not everything is perfect so far.
     - [ ] Technical description
     - [ ] Construction manual
     - [ ] Part list
-    - [ ] User manual
+    - [x] User manual
     - [ ] Data sheet
     - [ ] Flash instructions
 - [ ] Application tests
