@@ -2,13 +2,26 @@
 
 ![LoRa Boat Monitor](Pictures/LoRa_Bootsmonitor.png)
 
-The LoRa boat monitor is used to monitor the boat when it is absent. Various measured values are continuously recorded at freely adjustable time intervals and transferred to the [LoRaWAN[(https://www.lora-wan.de/) forwarded. The data is from the TTN server ([The Thinks Network](https://thethingsnetwork.org/)) received in Amsterdam and cached and then sent to [Ubidots](https://ubidots.com/) forwarded as a web frontend. The data transmission is secured by encryption up to Ubidots. The measured data is displayed in Ubidots and various notifications can be sent by email when measured values are exceeded. There are a large number of [LoRa gateways](https://thethingsnetwork.org/map) which can receive the sent measurement data and forward it to the TTN server. Many LoRa gateways are run by private individuals on a non-profit basis. Anyone who wants can operate their own gateway and make it available to the general public. The radio technology uses the license-free frequency range around 868 MHz and uses a special transmission technology (chirp) to achieve large ranges of up to 50 km at low data rates. The ranges depend on the type of transmission, the antenna height and the environment. In built-up areas such as cities, typical ranges of 1… 4 km are possible. In open environments such as lakes and the sea, up to 50 km can be reached. There are no costs for data transmission when sending LoRa telegrams. This is the big difference to other long range transmission technologies like [SIGFOX](https://www.sigfox.com/) and mobile data networks such as 3G / 4G / 5G. If no LoRa gateway is within range, a simple 1-channel or 3-channel LoRa gateway can be set up with the same board. Only a few components are then left out and a different firmware used. Alternatively, the measured values can also be sent directly to Ubidots via WLAN, provided that a WLAN is within range.
+Image: LoRa Boat Monitor
+
+The LoRa boat monitor is used to monitor the boat when it is absent. Various measured values are continuously recorded at freely adjustable time intervals and transferred to the [LoRaWAN[(https://www.lora-wan.de/) forwarded. The data is from the TTN server ([The Thinks Network](https://thethingsnetwork.org/)) received in Amsterdam and cached and then sent to [Ubidots](https://ubidots.com/) forwarded as a web frontend. The data transmission is secured by encryption up to Ubidots. The measured data is displayed in Ubidots and various notifications can be sent by email when measured values are exceeded.
+
+There are a large number of [LoRa gateways](https://thethingsnetwork.org/map) which can receive the sent measurement data and forward it to the TTN server. Many LoRa gateways are run by private individuals on a non-profit basis. Anyone who wants can operate their own gateway and make it available to the general public. The radio technology uses the license-free frequency range around 868 MHz and uses a special transmission technology (chirp) to achieve large ranges of up to 50 km at low data rates. The ranges depend on the type of transmission, the antenna height and the environment. In built-up areas such as cities, typical ranges of 1… 4 km are possible. In open environments such as lakes and the sea, up to 50 km can be reached. There are no costs for data transmission when sending LoRa telegrams. This is the big difference to other long range transmission technologies like [SIGFOX](https://www.sigfox.com/) and mobile data networks such as 3G / 4G / 5G. If no LoRa gateway is within range, a simple 1-channel or 3-channel LoRa gateway can be set up with the same board. Only a few components are then left out and a different firmware used. Alternatively, the measured values can also be sent directly to Ubidots via WLAN, provided that a WLAN is within range.
 
 
+<<<<<<< c7a7c97bf9b1bd1ac5d90b8bb284ecd31b21f6df
 ![LoRa Data Transmission](Pictures/LoRa_Bootsmonitor.png)
 Image: LoRa data transmission Semtech GmbH
 
 ![LoRa Data Transmission](Pictures/LoRa_Bootsmonitor.png)
+=======
+![LoRa Data Transmission](Pictures/LoRaWAN_Technology.jpg)
+
+Image: LoRa data transmission Semtech GmbH
+
+![LoRa Data Transmission](Pictures/LoRa_Blockschaltbild.png)
+
+>>>>>>> Mods
 Image: Block diagram LoRa boat monitor
 
 ## The LoRa boat monitor has the following functions:
