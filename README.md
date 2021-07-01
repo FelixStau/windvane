@@ -100,7 +100,7 @@ I have completed many tasks but still not everything is perfect so far.
 - [x] Prototyp creation
     - [x] LoRa boat monitor
     - [x] LoRa gateway
-- [x] Production Zero series
+- [ ] Production Zero series
     - [ ] DIY Kits
     - [x] Assembled LoRa boat monitor
 - [x] Shipping Zero Series
@@ -108,7 +108,7 @@ I have completed many tasks but still not everything is perfect so far.
     - [x] Documentation and update server on GitLab
     - [ ] Technical description
     - [ ] Construction manual
-    - [ ] Part list
+    - [x] Part list
     - [x] User manual
     - [ ] Data sheet
     - [ ] Flash instructions
