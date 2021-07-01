@@ -111,6 +111,7 @@ I have completed many tasks but still not everything is perfect so far.
     - [x] Assembled LoRa boat monitor
 - [x] Shipping Zero Series
 - [ ] Documentation
+    - [x] Documentation and update server on GitLab
     - [ ] Technical description
     - [ ] Construction manual
     - [ ] Part list
@@ -126,7 +127,7 @@ I have completed many tasks but still not everything is perfect so far.
     - [x] User experiences
 - [ ] Extensions
     - [ ] Battery current sensor
-    - [ ] Actions depends on events and measuring values
+    - [ ] Actions and alarms depends on events and measuring values
     - [ ] Build a LoRa gateway structure on two towers for the IJsselmeer in Netherlands 
 - [ ] Certification
     - [ ] CE Certification
