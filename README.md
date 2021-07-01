@@ -31,7 +31,7 @@ Image: Block diagram LoRa boat monitor
 * LoRa transmitter and receiver with OLED display
 * 868 MHz, SF7… SF12, 100 mW transmission power
 * Dynamic spreeding factor adjustable SF7… FS10
-* Supports channel 0...7 dynalically and fix
+* Supports channel 0...7 dynamic and fix
 * Data transfer rate: 0.3 to 50 kbit / s
 * Max. Telegram length for user data: 200 bytes
 * Range: built-up area 1… 4km, open area up to 50km
