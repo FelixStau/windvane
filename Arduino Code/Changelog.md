@@ -8,7 +8,7 @@
 
 **20210530 firmware_V1.00.bmb {+ (old) +}**
 
-* Initial firmware with linited functionality (only settings, no view for measuring results)
+* Initial firmware with limited functionality (only settings, no view for measuring results)
 * WLAN default settings (SSID: NoWa, Pass: 12345678, IP: 192.168.4.1)
 
 
