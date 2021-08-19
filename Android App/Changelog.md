@@ -1,4 +1,4 @@
-**2021 Windsensor_WiFi_1000.apk {+ (old) +}**
+**2021 Windsensor_WiFi_1000.apk {+ (stable) +}**
 
 * First universal App for Yachta and other wind sensors
 * Saving the last IP in a data base
