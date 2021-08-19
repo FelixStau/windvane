@@ -1,6 +1,6 @@
-## LoRa Boat Monitor
+## Windsensor Yachta
 
-![LoRa Boat Monitor](Pictures/LoRa_Bootsmonitor.png)
+![Windsnesor Yachta](Pictures/Yachta_Windsensor.jpg)
 
 Image: LoRa Boat Monitor
 

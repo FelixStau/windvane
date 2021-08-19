@@ -1,7 +1,9 @@
-**Info!** The security guidelines are increased under Android 11 and no third-party apps can be installed via download. The app must be saved in the Downloads folder using a USB cable. The app can then be installed with the Google file manager.
+**2021 Windsensor_WiFi_1000.apk {+ (old) +}**
 
-**20210630 LoRa_Boatmonitor_1.apk {+ (stable) +}**
-
-* First App version
+* First universal App for Yachta and other wind sensors
+* Saving the last IP in a data base
 * If the App running then disable the display timeout
-
+* Checking the type of connection (is this a wind sensor)
+* Reading the device type from JSON
+* Open the following page only if detect a wind sensor
+* Error handling by incorrect connections (messaging)
