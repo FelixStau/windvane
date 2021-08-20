@@ -14,6 +14,8 @@ The WiFi 1000 firmware is a firmware that can be used universally for various wi
 
 A lively exchange of experiences takes place in the German-speaking sailing forum. You can also participate in English.
 
+[![Donate](Pictures/Donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5QZJZBM252F2L)
+
 ## Technical characteristics
 
 * Measuring wind speed and wind direction
@@ -49,7 +51,7 @@ Now also available as Android App. It is is a WebApp connecting directly to the 
 ![Android App](Pictures/AppInstrument1.png)
 ![Android App](Pictures/AppInstrument2.png)
 
-Img: Android App (Wifi 1000 firmware)
+Img: Android App for Wifi 1000 firmware
 
 ## What is the current status?
 
@@ -127,5 +129,3 @@ I have completed many tasks but still not everything is perfect so far.
 For questions or suggestions please get in contact via email at norbert-walter(at)web.de.
 
 If you like to help or consider this project useful, please donate. Thanks for your support!
-
-[![Donate](Pictures/Donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5QZJZBM252F2L)
