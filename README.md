@@ -41,15 +41,15 @@ I use the windsensor in combination with [OpenPlotter](http://www.sailoog.com/op
 
 ![Connectivity](Pictures/Windsensor_Raspi_Handy_Laptop_M5Stack.png)
 
-Network devices can be connected to OpenPlotter. A simple browser displays all data from the wind transducer. I use a 7" Android tablet as display for my windsensor.
+Img: Connection options
 
-![Instrument panel](Pictures/OpenPlotter_InstrumetPanel.png)
-
-(2018-11-02) Now also available as Android App. It is is a WebApp connecting directly to the windsensor to display all data.
+Now also available as Android App. It is is a WebApp connecting directly to the windsensor to display all data.
 
 ![Android App](Pictures/AppStart.png)
 ![Android App](Pictures/AppInstrument1.png)
 ![Android App](Pictures/AppInstrument2.png)
+
+Img: Android App (Wifi 1000 firmware)
 
 ## What is the current status?
 
@@ -57,69 +57,67 @@ I have completed many tasks but still not everything is perfect so far.
 
 - [x] Technical recherche
 - [x] Evaluation of function
-    - [x] LoRa trasmission tests
-    - [x] Accessibility of gateways
-    - [x] Measurement of telegram losses 
-    - [x] Test spreeding factors
-    - [x] Antenna test
-    - [x] TTN configuration
-    - [x] Ubitots configutarion and restrictions
+    - [x] Hall sensors and rotation sensor
+    - [x] Magnets
+    - [x] Prototype circuit
+    - [x] Test software
+    - [x] Web display technologies
+    - [x] 3D material test
+    - [x] Coating tests
 - [x] Mechanical design
-    - [x] 3D parts für Onshape
+    - [x] 3D parts
 - [ ] Electronic design
     - [x] Circuit design
     - [x] Board design
     - [ ] Customer sample circuit
 - [ ] Software
-    - [x] Basic functionality for LoRa
-    - [x] LoRa back channel for configuration
-    - [x] Dynamic spreedung factor
-    - [x] Voltage measurement
-    - [x] Tank sensors
-    - [x] GPS modul
-    - [x] BME280
-    - [x] Alarm sensors
-    - [x] Relay function
+    - [x] Basic functionality
+    - [x] NMEA0183 WiFi
+    - [x] NMEA0183 Serial
+    - [x] mDNS Service
     - [x] JSON
+    - [ ] MQTT
+    - [ ] Wind History Diagram
+    - [x] Sensor Data Diagram for diagnostic and mechanical adjustment
     - [x] Web-Updater
     - [x] Web-Configurator
     - [x] Web server as data display
-    - [ ] Ubidots connection via WiFi
-    - [ ] NMEA0183 WiFi
-    - [ ] NMEA0183 Serial
-    - [ ] MQTT
     - [x] Andoid App
-    - [x] LoRa gateway firmware
+    - [x] External Diagnostic Tool
+	- [x] Support for other wind sensor types
 - [x] Components ordering
     - [x] Electronic board
     - [x] Mechanical parts
     - [x] Fittings
 - [x] Prototyp creation
-    - [x] LoRa boat monitor
-    - [x] LoRa gateway
+    - [x] Yachta prototype
+    - [x] Modifyed Yachta prototype
 - [ ] Production Zero series
     - [ ] DIY Kits
-    - [x] Assembled LoRa boat monitor
-- [x] Shipping Zero Series
+    - [ ] Assembled windsensor
+- [ ] Shipping Zero Series
 - [ ] Documentation
-    - [x] Documentation and update server on GitLab
     - [ ] Technical description
+	- [x] Description Web frontend
     - [ ] Construction manual
     - [x] Part list
-    - [x] User manual
+    - [ ] User manual
     - [ ] Data sheet
-    - [ ] Flash instructions
-- [x] Application tests
-    - [x] Temperature 20...40°C
-    - [x] LoRa range test (SF7...SF12)
+- [ ] Application tests
+    - [x] Temperature 20...80°C
+    - [ ] Vibration test by strong wind (8bft)
     - [x] WiFi stability test
     - [x] Connection test
-    - [x] Long time test
+    - [ ] Rain test
+    - [ ] IPX6 Water resistance test
+    - [ ] UV radiation test
+    - [ ] Long time test
+    - [ ] Test with auto pilot
     - [x] User experiences
 - [ ] Extensions
-    - [ ] Battery current sensor
-    - [ ] Actions and alarms depends on events and measuring values
-    - [ ] Build a LoRa gateway structure on two towers for the IJsselmeer in Netherlands 
+    - [x] Multi function display with M5Stack
+    - [ ] NMEA2000 Gateway
+    - [ ] Weather data sensor with BME280
 - [ ] Certification
     - [ ] CE Certification
 
