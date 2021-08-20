@@ -1,4 +1,4 @@
-# Windsensor Yachta
+## Windsensor Yachta
 
 ![Windsnesor Yachta](Pictures/Yachta_Windsensor.jpg)
 
@@ -18,14 +18,14 @@ If you like to help or consider this project useful, please donate. Thanks for y
 
 [![Donate](Pictures/Donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5QZJZBM252F2L)
 
-# Technical characteristics
+## Technical characteristics
 
 * Measuring wind speed and wind direction
 * Robust mechanics
 * Without special metal parts
 * All parts can be found in the hardware store
 * Easy 3D parts
-* Weight < 200g
+* Weight app. 210g
 * Weatherproof and UV stable
 * No cabling for sensor signals
 * Digital signal transmission with WiFi only
@@ -39,31 +39,31 @@ If you like to help or consider this project useful, please donate. Thanks for y
 * Supporting  NMEA 0183 protocol
 * Firmware update via Internet
 
-# Firmware characteristics
+## Firmware characteristics
 
-## Udo Firmware
+** Udo Firmware **
 * Web configuration for IP settings port 80
 * UDP port 2948
 * UDP NMEA0183 telegram MWV
 
-## Jukolein Firmware
-* Web configuration and visualisation
+** Jukolein Firmware **
+* Web configuration and grafical visualisation
 * Webserver port 80
 * UDP port 8080
 * TCP port 8080
 * UDP/TCP NMEA0183 telegram MWV
 * Firmware update OTA via Arduino IDE
 
-## Wifi 1000 Firmware
-* Web configuration and visualisation
+** Wifi 1000 Firmware **
+* Web configuration and graphical visualisation
 * Webserver port 80
 * TCP port 6666
 * TCP NMEA0183 telegram MWV, VWR, VPW, INF
-* JSON http://192.168.4.1?json
+* JSON http://192.168.4.1/json
 * Firmware update via Internet
 * Android App
 
-# How can I use it?
+## How can I use it?
 
 I use the windsensor in combination with [OpenPlotter](http://www.sailoog.com/openplotter) on a Raspberry Pi 3B. OpenPlotter serves as access point for WiFi devices. The windsensor connects to OpenPlotter via WiFi and transmits the NMEA0183 data telegrams every second. The windsensor sends 4 types of telegrams. 3 standard telegrams (MWV, VWR, VPW) and one custom telegram (INF). Check here [link](http://www.nmea.de/nmea0183datensaetze.html) for more information on NMEA0183. 
 
@@ -79,7 +79,7 @@ Now also available as Android App. It is is a WebApp connecting directly to the 
 
 Img: Android App for Wifi 1000 firmware
 
-# What is the current status?
+## What is the current status?
 
 I have completed many tasks but still not everything is perfect so far.
 
@@ -150,6 +150,6 @@ I have completed many tasks but still not everything is perfect so far.
     - [ ] CE Certification
 
 
-# Questions?
+## Questions?
 
 For questions or suggestions please get in contact via email at norbert-walter(at)web.de.
