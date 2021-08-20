@@ -1,4 +1,4 @@
-## Windsensor Yachta
+# Windsensor Yachta
 
 ![Windsnesor Yachta](Pictures/Yachta_Windsensor.jpg)
 
@@ -18,7 +18,7 @@ If you like to help or consider this project useful, please donate. Thanks for y
 
 [![Donate](Pictures/Donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5QZJZBM252F2L)
 
-## Technical characteristics
+# Technical characteristics
 
 * Measuring wind speed and wind direction
 * Robust mechanics
@@ -39,14 +39,14 @@ If you like to help or consider this project useful, please donate. Thanks for y
 * Supporting  NMEA 0183 protocol
 * Firmware update via Internet
 
-## Firmware characteristics
+# Firmware characteristics
 
-# Udo Firmware
+## Udo Firmware
 * Web configuration for IP settings port 80
 * UDP port 2948
 * UDP NMEA0183 telegram MWV
 
-# Jukolein Firmware
+## Jukolein Firmware
 * Web configuration and visualisation
 * Webserver port 80
 * UDP port 8080
@@ -54,7 +54,7 @@ If you like to help or consider this project useful, please donate. Thanks for y
 * UDP/TCP NMEA0183 telegram MWV
 * Firmware update OTA via Arduino IDE
 
-# Wifi 1000 Firmware
+## Wifi 1000 Firmware
 * Web configuration and visualisation
 * Webserver port 80
 * TCP port 6666
@@ -63,7 +63,7 @@ If you like to help or consider this project useful, please donate. Thanks for y
 * Firmware update via Internet
 * Android App
 
-## How can I use it?
+# How can I use it?
 
 I use the windsensor in combination with [OpenPlotter](http://www.sailoog.com/openplotter) on a Raspberry Pi 3B. OpenPlotter serves as access point for WiFi devices. The windsensor connects to OpenPlotter via WiFi and transmits the NMEA0183 data telegrams every second. The windsensor sends 4 types of telegrams. 3 standard telegrams (MWV, VWR, VPW) and one custom telegram (INF). Check here [link](http://www.nmea.de/nmea0183datensaetze.html) for more information on NMEA0183. 
 
@@ -79,7 +79,7 @@ Now also available as Android App. It is is a WebApp connecting directly to the 
 
 Img: Android App for Wifi 1000 firmware
 
-## What is the current status?
+# What is the current status?
 
 I have completed many tasks but still not everything is perfect so far.
 
@@ -150,6 +150,6 @@ I have completed many tasks but still not everything is perfect so far.
     - [ ] CE Certification
 
 
-## Questions?
+# Questions?
 
 For questions or suggestions please get in contact via email at norbert-walter(at)web.de.
