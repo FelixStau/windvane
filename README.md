@@ -14,6 +14,8 @@ The WiFi 1000 firmware is a firmware that can be used universally for various wi
 
 A lively exchange of experiences takes place in the German-speaking sailing forum. You can also participate in English.
 
+If you like to help or consider this project useful, please donate. Thanks for your support!
+
 [![Donate](Pictures/Donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5QZJZBM252F2L)
 
 ## Technical characteristics
@@ -36,6 +38,30 @@ A lively exchange of experiences takes place in the German-speaking sailing foru
 * No extra software required (display is the browser)
 * Supporting  NMEA 0183 protocol
 * Firmware update via Internet
+
+## Firmware characteristics
+
+# Udo Firmware
+* Web configuration for IP settings port 80
+* UDP port 2948
+* UDP NMEA0183 telegram MWV
+
+# Jukolein Firmware
+* Web configuration and visualisation
+* Webserver port 80
+* UDP port 8080
+* TCP port 8080
+* UDP/TCP NMEA0183 telegram MWV
+* Firmware update OTA via Arduino IDE
+
+# Wifi 1000 Firmware
+* Web configuration and visualisation
+* Webserver port 80
+* TCP port 6666
+* TCP NMEA0183 telegram MWV, VWR, VPW, INF
+* JSON http://192.168.4.1?json
+* Firmware update via Internet
+* Android App
 
 ## How can I use it?
 
@@ -127,5 +153,3 @@ I have completed many tasks but still not everything is perfect so far.
 ## Questions?
 
 For questions or suggestions please get in contact via email at norbert-walter(at)web.de.
-
-If you like to help or consider this project useful, please donate. Thanks for your support!
