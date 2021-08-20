@@ -12,7 +12,7 @@ There are different firmware for the wind sensor. Both Udo and Julian ([Jukolein
 
 The WiFi 1000 firmware is a firmware that can be used universally for various wind sensors and was originally developed by Norbert for the [WiFi 1000 wind sensor](https://gitlab.com/norbertwalter67/Windsensor_WiFi_1000). The current versions of the firmware can be found in the respective own repositories at Github and GitLab.
 
-A lively exchange of experiences takes place in the German-speaking sailing forum. You can also participate in English.
+A lively exchange of experiences takes place in the German-speaking [sailing forum](https://www.segeln-forum.de/board194-boot-technik/board195-open-boat-projects-org/79131-windsensor-ii-iii/). You can also participate in English.
 
 If you like to help or consider this project useful, please donate. Thanks for your support!
 
