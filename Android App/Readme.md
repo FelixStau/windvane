@@ -1,3 +1,5 @@
+This App is only usable for the wiFi 1000 firmware
+
 **2021 Windsensor_WiFi_1000_6.apk {+ (stable) +}**
 
 * First universal App for Yachta and other wind sensors
