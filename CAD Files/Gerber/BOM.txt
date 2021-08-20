@@ -1,21 +1,21 @@
 Material:
 #########
 
-Holzschraube 4 Stück 3x16
-Inbusschraube 1 Stück 50 x M5
-Schraube mit Kopf 1 Stück M5 x 45
-Stopmutter M5 3x
-Mutter M5 1x
-Kugellager 2x  16x5x5  (625)
-Kugellager 1x 13x5x4 (695) oder Keramik für unten
-U-Scheibe evtl. 3x            
-Magneten   4 Stück 1x1,5x5
-Diametralmagnet  1 Stück6x3 oder 8x5  oder Viereck 5x5x3
+11x wood screw 3x16
+1x Allen screw M5 x 50
+1x countersunk screw M5 x 45
+3x stop nut M5
+1x nut M5
+2x ball bearings 16x5x5 (625)
+1x ball bearing 13x5x4 (695) or ceramic for the bottom
+3x washer M5
+4x neodymium magnets 1x1.5x5
+1x diametrical magnet square 5x5x3
 
-ESP8266
-AS5600
-5x 4,7k-10k SMD Widerstand 
-2x Kondensator
-3,3 Volt Regler 117 3.3
-Step-Down Modul XD-45 MH DC 4,75-23 Volt
-Hall Sensor 41F, SS41F Bipolar
+1x ESP12-F (ESP8266)
+1x AS5600 SOP8
+5x 4.7k-10k SMD 0603 resistor
+2x 10µF 0805 capacitor
+1x MS1117-3.3, 3.3V voltage regulator
+1x XD-45 MH, DC/DC converter 4.75-23 volts
+1x SS41F, bipolar Hall sensor 
