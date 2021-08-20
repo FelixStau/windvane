@@ -1,0 +1,21 @@
+Material:
+#########
+
+15x wood screw 3x10 or Allen scew M3x10
+1x Allen screw M5 x 50
+1x countersunk screw M5 x 45
+3x stop nut M5
+1x nut M5
+2x ball bearings 16x5x5 (625)
+1x ball bearing 13x5x4 (695) or ceramic for the bottom
+3x washer M5
+4x neodymium magnets 1x1.5x5
+1x diametrical magnet square 5x5x3
+
+1x ESP12-F (ESP8266)
+1x AS5600 SOP8
+5x 4.7k-10k SMD 0603 resistor
+2x 10µF 0805 capacitor
+1x MS1117-3.3, 3.3V voltage regulator
+1x XD-45 MH, DC/DC converter 4.75-23 volts
+1x SS41F, bipolar Hall sensor 
