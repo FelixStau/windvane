@@ -41,12 +41,12 @@ If you like to help or consider this project useful, please donate. Thanks for y
 
 ## Firmware characteristics
 
-** Udo Firmware **
+**Udo Firmware**
 * Web configuration for IP settings port 80
 * UDP port 2948
 * UDP NMEA0183 telegram MWV
 
-** Jukolein Firmware **
+**Jukolein Firmware**
 * Web configuration and grafical visualisation
 * Webserver port 80
 * UDP port 8080
@@ -54,7 +54,7 @@ If you like to help or consider this project useful, please donate. Thanks for y
 * UDP/TCP NMEA0183 telegram MWV
 * Firmware update OTA via Arduino IDE
 
-** Wifi 1000 Firmware **
+**Wifi 1000 Firmware**
 * Web configuration and graphical visualisation
 * Webserver port 80
 * TCP port 6666
