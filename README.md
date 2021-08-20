@@ -65,7 +65,7 @@ If you like to help or consider this project useful, please donate. Thanks for y
 
 ## How can I use it?
 
-I use the windsensor in combination with [OpenPlotter](http://www.sailoog.com/openplotter) on a Raspberry Pi 3B. OpenPlotter serves as access point for WiFi devices. The windsensor connects to OpenPlotter via WiFi and transmits the NMEA0183 data telegrams every second. The windsensor sends 4 types of telegrams. 3 standard telegrams (MWV, VWR, VPW) and one custom telegram (INF). Check here [link](http://www.nmea.de/nmea0183datensaetze.html) for more information on NMEA0183. 
+I use the windsensor in combination with [OpenPlotter](http://www.sailoog.com/openplotter) on a Raspberry Pi 3B. OpenPlotter serves as access point for WiFi devices. The windsensor connects to OpenPlotter via WiFi and transmits the NMEA0183 data telegrams every second. The windsensor sends NMEA0183 telegrams. Check here [link](http://www.nmea.de/nmea0183datensaetze.html) for more information. 
 
 ![Connectivity](Pictures/Windsensor_Raspi_Handy_Laptop_M5Stack.png)
 
