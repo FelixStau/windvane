@@ -8,6 +8,8 @@ The initial idea for the Yachta wind sensor is based on a work by the user Yacht
 
 ![Windsnesor Yachta](Pictures/Top_3D_Yachta.png)
 
+Image: PCB board
+
 The PCB project is listed on [Open Source Hardware Lab](https://oshwlab.com/) an can be edited with the webbased online [layout program EasyEDA](https://easyeda.com/norbert-walter/projects).
 
 The board without components can be ordered from [Aisler](https://aisler.net/p/VTNPJWKQ) or direct in EasyEDA.
