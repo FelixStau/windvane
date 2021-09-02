@@ -10,12 +10,4 @@ Material:
 1x Kugellager 13x5x4 (695) oder Keramik für unten
 3x U-Scheibe M5     
 4x Neodym Magnete 1x1,5x5
-1x Diametralmagnet  Viereck 5x5x3
-
-1x ESP12-F (ESP8266)
-1x AS5600 SOP8
-5x 4,7k-10k SMD  0603 Widerstand 
-2x 10µF 0805 Kondensator
-1x MS1117-3.3, 3.3V Spannungsregler 
-1x XD-45 MH DC/DC-Wanlder 4,75-23 Volt
-1x SS41F Bipolar Hall Sensor
+1x Neodym Magnet Viereck 5x5x5
