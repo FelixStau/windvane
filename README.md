@@ -4,9 +4,13 @@
 
 Image: Wind Sensor Yachta
 
-The initial idea for the Yachta wind sensor is based on a work by the user Yachta. He presented and published the wind sensor on [Thingiverse](https://www.thingiverse.com/thing:2261719). Udo took up the idea of ​​Yachta and modified the mechanics a little. The arms of the cup wheel have been separated. This makes 3D printing easier to implement. The electronics were completely redesigned by him. The microcontroller was removed and replaced with an ESP8266. A DC/DC converter module was installed so that the wind sensor can also be operated at 12V. The circuit board was created with the Windows software Sprint Layout and converted into Gerber files.
+The initial idea for the Yachta wind sensor is based on a work by the user Yachta. He presented and published the wind sensor on [Thingiverse](https://www.thingiverse.com/thing:2261719). Udo took up the idea of ​​Yachta and modified the mechanics a little. The arms of the cup wheel have been separated. This makes 3D printing easier to implement. The electronics were completely redesigned by him. The microcontroller was removed and replaced with an ESP8266. A DC/DC converter module was installed so that the wind sensor can also be operated at 12V. The circuit board was created with the Windows software Sprint Layout and converted into Gerber files. Now is a new BCP available from Norbert.
 
-The board without components can be ordered from [Aisler](https://aisler.net/p/GIPYPYTC).
+![Windsnesor Yachta](Pictures/Top_3D_Yachta.png)
+
+The PCB project is listed on [Open Source Hardware Lab](https://oshwlab.com/) an can be edited with the webbased online [layout program EasyEDA](https://easyeda.com/norbert-walter/projects).
+
+The board without components can be ordered from [Aisler](https://aisler.net/p/VTNPJWKQ) or direct in EasyEDA.
 
 There are different firmware for the wind sensor. Both Udo and Julian ([Jukolein](https://github.com/jukolein/NMEA0183-Windsensor)) have created their own firmware versions with different functionality. Udo has also designed another wind sensor, which is a further development of the Yachta wind sensor. The functional principle and the electronics are identical. But you need a different board because the wind sensor is slimmer. Julian published the whole thing on [Github](https://github.com/jukolein/NMEA0183-Windsensor) and wrote his own firmware for the wind sensor, which can also be used for this wind sensor. 
 
