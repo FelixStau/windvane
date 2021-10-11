@@ -2,9 +2,10 @@ Material:
 #########
 
 11x Holzschraube 3x16 oder Inbusschraube M3x10
-2x Inbusschraube M5 x 50
-1x Senkkopfschraube M5 x 45
-3x Stopmutter M5
+1x Kreuzschltzschraube M5 x 60
+1x Inbusschraube M6 x 60 mit glattem Schaft 35 mm
+1x Senkkopfschraube M5 x 25
+2x Stopmutter M5
 1x Mutter M5
 2x Kugellager 16x5x5 (625)
 1x Kugellager 13x5x4 (695) oder Keramik für unten
