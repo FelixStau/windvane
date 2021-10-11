@@ -2,8 +2,8 @@ Material:
 #########
 
 15x wood screw 3x10 or Allen scew M3x10
-1x Allen screw M5 x 60
-1x cross recess  screw M5 x 60
+1x Allen screw M5 x 60 with smooth shaft 35 mm 
+1x Cross recess  screw M5 x 60
 1x countersunk screw M5 x 25
 2x stop nut M5
 1x nut M5
