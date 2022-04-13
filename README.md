@@ -77,7 +77,7 @@ I use the windsensor in combination with [OpenPlotter](http://www.sailoog.com/op
 
 Img: Connection options
 
-Now also available as Android App. It is is a WebApp connecting directly to the windsensor to display all data.
+A Android App is also available. It is is a WebApp connecting directly to the windsensor to display all data.
 
 ![Android App](Pictures/AppStart.png)
 ![Android App](Pictures/AppInstrument1.png)
@@ -126,14 +126,13 @@ I have completed many tasks but still not everything is perfect so far.
 - [x] Prototyp creation
     - [x] Yachta prototype
     - [x] Modifyed Yachta prototype
-- [ ] Production Zero series
-    - [ ] DIY Kits
-    - [ ] Assembled windsensor
-- [ ] Shipping Zero Series
+- [x] Production Zero series
+    - [x] Assembled and programed PCB
+- [x] Shipping Zero Series
 - [ ] Documentation
     - [ ] Technical description
 	- [x] Description Web frontend
-    - [ ] Construction manual
+    - [x] Construction manual
     - [x] Part list
     - [ ] User manual
     - [ ] Data sheet
@@ -150,8 +149,8 @@ I have completed many tasks but still not everything is perfect so far.
     - [x] User experiences
 - [ ] Extensions
     - [x] Multi function display with M5Stack
-    - [ ] NMEA2000 Gateway
-    - [ ] Weather data sensor with BME280
+    - [x] NMEA2000 Gateway
+    - [x] Weather data sensor with BME280
 - [ ] Certification
     - [ ] CE Certification
 
