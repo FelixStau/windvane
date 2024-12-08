@@ -39,7 +39,7 @@ void setup()
   attachInterrupt(digitalPinToInterrupt(MKRCAN_MCP2515_INT_PIN), isr, RISING);
 
   mcp2515.begin();
-  mcp2515.setBitRate(CanBitRate::BR_250kBPS_16MHZ); // CAN bitrate and clock speed of MCP2515
+  mcp2515.setBitRate(CanBitRate::BR_250kBPS_8MHZ); // CAN bitrate and clock speed of MCP2515
   mcp2515.setNormalMode();
 }
 
